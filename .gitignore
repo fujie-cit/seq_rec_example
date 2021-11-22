@@ -1,5 +1,6 @@
 data/OGVC_LLD_CSV/*.csv
 data/OGVC_LLD_PICKLE/*.pkl
 data/info.csv
+data/smile.log
 tools/opensmile*
 __pycache__/
